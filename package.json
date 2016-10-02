@@ -1,0 +1,9 @@
+{
+    "name":"Sysdate",
+    "version":"0.0.1",
+    "preferGlobal":"true",
+    "bin":{
+        "Sysdate":"System.js"
+    }
+
+}
